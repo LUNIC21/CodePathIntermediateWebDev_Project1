@@ -28,7 +28,10 @@ I added hover effect on each divs to show where the mouse is pointing
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/mPL5tF0.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<!-- <img src='https://i.imgur.com/mPL5tF0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+
+# Gif
+![](https://github.com/LUNIC21/CodePathIntermediateWebDev_Project1/blob/main/Project_1.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
