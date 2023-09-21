@@ -5,7 +5,7 @@ const Websites = (props) =>{
         <div className={props.type} >
             <img src={props.image} alt="image" width = "100" height = "100"/>
             <h3>{props.name}</h3>
-            <a href={props.hyperlink}>Go to the Page</a>
+            <a href={props.hyperlink} target="_blank">Go to the Page</a>
         </div>
     )
 }
