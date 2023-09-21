@@ -28,7 +28,7 @@ I added hover effect on each divs to show where the mouse is pointing
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/0lklyyB.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video src='https://i.imgur.com/0lklyyB.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
