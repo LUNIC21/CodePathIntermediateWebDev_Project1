@@ -1,0 +1,65 @@
+body {
+  background-image: radial-gradient(ellipse at top, rgb(53, 140, 255), transparent);
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+a{
+  text-decoration: none;
+}
+
+.GeneralJobs{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 3px black solid;
+  border-radius: 20px;
+  padding: 20px 10px 20px 10px;
+  margin-bottom: 30px;
+}
+
+.GeneralJobs div{
+  width: 200px;
+  height: 220px;
+  border: 1px black solid;
+  margin: 0px 10px 20px 10px;
+  padding-top: 30px;
+  box-shadow: 0px 0px 10px rgb(20, 67, 0);
+}
+
+.GeneralJobs div:hover{
+  background-color: rgb(80, 211, 255);
+}
+
+.general{
+  background-color: rgb(149, 253, 154);
+}
+
+.RemoteJobs{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 3px black solid;
+  border-radius: 20px;
+  padding: 20px 10px 20px 10px;
+}
+
+.RemoteJobs div{
+  width: 200px;
+  height: 220px;
+  border: 1px black solid;
+  margin: 0px 10px 20px 10px;
+  padding-top: 30px;
+  box-shadow: 0px 0px 10px rgb(20, 67, 0);
+}
+
+.remote{
+  background-color: rgb(255, 210, 151);
+}
+
+.RemoteJobs div:hover{
+  background-color: rgb(255, 129, 247);
+}
